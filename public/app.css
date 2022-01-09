@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    Padding:0;
+    box-sizing: border-box;
+  }
+  
+  .App{
+    min-height: 100vh;
+    background-color: dimgray;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+   background: url(./bg3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+  }
+  
+  .bw{
+    background-color: seashell;
+    
+    border-radius: 5%;
+    border: 2px solid black;
+    width: 600px;
+    height:400px;
+    padding: 20px 0 0 20px;
+  }
+  .hd{
+  
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 30px;
+  }
+  
+  .info{
+  
+    font-size: 1.3rem;
+    font-weight: 700;
+    
+  }
