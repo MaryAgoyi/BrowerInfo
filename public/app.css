@@ -23,7 +23,7 @@
     border-radius: 5%;
     border: 2px solid black;
     width: 600px;
-    height:400px;
+    height:200px;
     padding: 20px 0 0 20px;
   }
   .hd{
@@ -35,7 +35,7 @@
   }
   
   .info{
-  
+    text-align: center;
     font-size: 1.3rem;
     font-weight: 700;
     
